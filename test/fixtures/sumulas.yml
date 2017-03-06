@@ -1,0 +1,9 @@
+# Read about fixtures at http://api.rubyonrails.org/classes/ActiveRecord/FixtureSet.html
+
+one:
+  acao: MyString
+  jogo_id: 
+
+two:
+  acao: MyString
+  jogo_id: 
