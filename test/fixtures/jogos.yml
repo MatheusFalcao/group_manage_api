@@ -1,0 +1,11 @@
+# Read about fixtures at http://api.rubyonrails.org/classes/ActiveRecord/FixtureSet.html
+
+one:
+  data: 2017-03-06
+  nome_juiz: MyString
+  grupo_id: 
+
+two:
+  data: 2017-03-06
+  nome_juiz: MyString
+  grupo_id: 
