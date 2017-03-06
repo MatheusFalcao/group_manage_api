@@ -1,0 +1,13 @@
+# Read about fixtures at http://api.rubyonrails.org/classes/ActiveRecord/FixtureSet.html
+
+one:
+  tipo: MyString
+  valor: 1.5
+  grupo_id: 
+  jogador_id: 
+
+two:
+  tipo: MyString
+  valor: 1.5
+  grupo_id: 
+  jogador_id: 
